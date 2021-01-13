@@ -1,1 +1,2 @@
-2. Derste işlenen konular ve kodlar
+# Python_Camp
+Yazılım Geliştirici Geliştirme Kampı kapsamında yazdığım kodlar
