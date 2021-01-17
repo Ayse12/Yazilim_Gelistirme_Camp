@@ -1,0 +1,13 @@
+D:\XXX\UcGunDers\UcGunDers\bin\Debug\netcoreapp3.1\Method.exe
+D:\XXX\UcGunDers\UcGunDers\bin\Debug\netcoreapp3.1\Method.deps.json
+D:\XXX\UcGunDers\UcGunDers\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+D:\XXX\UcGunDers\UcGunDers\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+D:\XXX\UcGunDers\UcGunDers\bin\Debug\netcoreapp3.1\Method.dll
+D:\XXX\UcGunDers\UcGunDers\bin\Debug\netcoreapp3.1\Method.pdb
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.dll
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.pdb
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
+D:\XXX\UcGunDers\UcGunDers\obj\Debug\netcoreapp3.1\Method.csprojAssemblyReference.cache
