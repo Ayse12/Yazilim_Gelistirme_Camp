@@ -1,0 +1,13 @@
+D:\Yeni klasör\OOP1\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\Yeni klasör\OOP1\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\Yeni klasör\OOP1\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\Yeni klasör\OOP1\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\Yeni klasör\OOP1\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Yeni klasör\OOP1\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Yeni klasör\OOP1\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
