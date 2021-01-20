@@ -1,0 +1,13 @@
+D:\Yeni klasör\OOP1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+D:\Yeni klasör\OOP1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+D:\Yeni klasör\OOP1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+D:\Yeni klasör\OOP1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+D:\Yeni klasör\OOP1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Yeni klasör\OOP1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Yeni klasör\OOP1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache
