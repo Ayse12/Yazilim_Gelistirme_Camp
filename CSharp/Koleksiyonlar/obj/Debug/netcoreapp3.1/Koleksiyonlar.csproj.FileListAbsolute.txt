@@ -1,0 +1,12 @@
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache

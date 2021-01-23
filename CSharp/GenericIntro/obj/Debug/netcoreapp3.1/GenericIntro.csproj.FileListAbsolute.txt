@@ -1,0 +1,12 @@
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.exe
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.deps.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.runtimeconfig.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.runtimeconfig.dev.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.AssemblyInfoInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.AssemblyInfo.cs
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.csproj.CoreCompileInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.genruntimeconfig.cache
