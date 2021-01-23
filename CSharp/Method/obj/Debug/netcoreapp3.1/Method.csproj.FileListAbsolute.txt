@@ -1,0 +1,12 @@
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\bin\Debug\netcoreapp3.1\Method.exe
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\bin\Debug\netcoreapp3.1\Method.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\bin\Debug\netcoreapp3.1\Method.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\obj\Debug\netcoreapp3.1\Method.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\obj\Debug\netcoreapp3.1\Method.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
