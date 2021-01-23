@@ -1,0 +1,12 @@
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\bin\Debug\netcoreapp3.1\OOP2.exe
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\bin\Debug\netcoreapp3.1\OOP2.deps.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.dev.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\bin\Debug\netcoreapp3.1\OOP2.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\bin\Debug\netcoreapp3.1\OOP2.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfoInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfo.cs
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.CoreCompileInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\obj\Debug\netcoreapp3.1\OOP2.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\obj\Debug\netcoreapp3.1\OOP2.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\OOP2\obj\Debug\netcoreapp3.1\OOP2.genruntimeconfig.cache
