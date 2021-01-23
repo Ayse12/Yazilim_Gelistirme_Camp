@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SartBloklari/1.0.0": {
+        "runtime": {
+          "SartBloklari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SartBloklari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

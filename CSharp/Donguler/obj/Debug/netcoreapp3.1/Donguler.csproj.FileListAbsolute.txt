@@ -1,0 +1,13 @@
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.csprojAssemblyReference.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\CSharp\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache
