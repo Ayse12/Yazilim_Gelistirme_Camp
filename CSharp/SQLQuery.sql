@@ -43,16 +43,3 @@ Select * from Customers c left join Orders o on c.CustomerID=o.CustomerID where 
 --ikiden daha fazla  tabloyu join etmek
 Select * from Products p inner join [Order Details] od on p.ProductId=od.ProductID inner Join Orders o on o.OrderID=od.OrderID
 
-
-
-Select ContactName Adi,CompanyName SirketAdi,City Sehir From Customers
-
-Select * From Customers where City='London'
-
-select * from Products where CategoryID=1 or CategoryID=3
-
-select * from Products where CategoryID=1 and UnitPrice>=10
-select*from Products where CategoryID=1 order by UnitPrice desc 
-Select count(*) Adet from Products
-Select categoryId, count(*) from Products group by CategoryID
-Select categoryId, count(*) from Products where UnitPrice>20 group by CategoryID having COUNT(*)<10
