@@ -26,6 +26,19 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -182,6 +195,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -190,6 +208,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "DataAccess >= 1.0.0",
       "Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -202,11 +221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
-      "projectName": "DataAccess",
-      "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Business\\Business.csproj",
+      "projectName": "Business",
+      "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Asus FX\\.nuget\\packages\\",
-      "outputPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\obj\\",
+      "outputPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -228,6 +247,9 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
+            "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj"
+            },
             "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj": {
               "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj"
             }

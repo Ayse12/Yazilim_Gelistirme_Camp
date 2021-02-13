@@ -25,16 +25,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entities.dll": {}
-        }
       }
     }
   },
@@ -181,16 +171,10 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Entities/1.0.0": {
-      "type": "project",
-      "path": "../Entities/Entities.csproj",
-      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -202,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
-      "projectName": "DataAccess",
-      "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj",
+      "projectName": "Entities",
+      "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Asus FX\\.nuget\\packages\\",
-      "outputPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\obj\\",
+      "outputPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -227,11 +211,7 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {
-            "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbDuL1sPCQ27GUqJG5CQ4S2bxA8uZkaaCyeYeZYN5ybVHEDgBCwd6wwf3oAkw4xQj+Hi8gOLlH43XXld5QRgSw==",
+  "dgSpecHash": "ZEk/D/kaNadTeHwlPRsYDbOIUm5pOvwwWIoKyLRynFU08D/wCaEVwORlV7iUilQlTQmqvRJAKmVsiONdGI6fLQ==",
   "success": true,
-  "projectFilePath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\Proje\\Yazilim_Gelistirme_Camp\\FinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

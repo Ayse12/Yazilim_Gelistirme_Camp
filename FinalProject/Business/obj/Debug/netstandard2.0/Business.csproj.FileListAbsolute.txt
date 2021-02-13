@@ -1,0 +1,14 @@
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
