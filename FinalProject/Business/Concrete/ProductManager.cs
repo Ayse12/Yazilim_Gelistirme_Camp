@@ -22,5 +22,15 @@ namespace Business.Concrete
             //İş Kodları
             return _ProductDal.GetAll();
         }
+
+        public List<Product> GetAllCategoryId(int id)
+        {
+            return _ProductDal.GetAll(p => p.CategoryId == id);
+        }
+
+        public List<Product> GetByUnitPrice(decimal min, decimal max)
+        {
+            return _ProductDal.GetAll(p => p.UnitPrice >= min && p.UnitPrice <= max);
+        }
     }
 }
