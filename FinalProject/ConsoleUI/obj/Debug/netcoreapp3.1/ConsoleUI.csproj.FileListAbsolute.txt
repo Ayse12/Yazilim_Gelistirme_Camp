@@ -58,3 +58,5 @@ D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

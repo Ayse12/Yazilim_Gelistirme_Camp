@@ -12,3 +12,5 @@ D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
