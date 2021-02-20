@@ -6,3 +6,4 @@ D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Core\obj\Debug\netstandard2.0\Core
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Core\obj\Debug\netstandard2.0\Core.dll
 D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
+D:\Proje\Yazilim_Gelistirme_Camp\FinalProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache

@@ -1695,6 +1695,9 @@
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+        },
         "compile": {
           "bin/placeholder/Core.dll": {}
         },
